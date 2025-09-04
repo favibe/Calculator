@@ -36,4 +36,5 @@ This project is part of my learning journey, practicing DOM manipulation, event 
 
 1. Clone this repository:  
    ```bash
-   git clone https://favibe.github.io/Pink-Calculator/
+   git clone 
+   https://favibe.github.io/Pink-Calculator/
